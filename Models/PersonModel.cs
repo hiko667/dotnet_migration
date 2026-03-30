@@ -14,7 +14,9 @@ public class ConcretePerson
     public string LastName {get; set;}
     [Required]
     public bool IsSecretlyAHamster {get; set;}
+    public int? HamsterId {get; set;} 
     public int GroupId {get; set;}
     public virtual Group Group {get; set;}
     public ICollection<SpottedAt> spottedAt {get; set;} = new List<SpottedAt>();
+    
 }
