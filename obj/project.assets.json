@@ -4717,11 +4717,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stani\\Desktop\\Person\\Person.csproj",
+      "projectUniqueName": "C:\\Users\\stani\\Desktop\\dotnet\\Person.csproj",
       "projectName": "Person",
-      "projectPath": "C:\\Users\\stani\\Desktop\\Person\\Person.csproj",
+      "projectPath": "C:\\Users\\stani\\Desktop\\dotnet\\Person.csproj",
       "packagesPath": "C:\\Users\\stani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stani\\Desktop\\Person\\obj\\",
+      "outputPath": "C:\\Users\\stani\\Desktop\\dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stani\\AppData\\Roaming\\NuGet\\NuGet.Config"
